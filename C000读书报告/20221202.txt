@@ -1,0 +1,19 @@
+@所有人 【读书报告】有更新
+时间：2022年12月2日 周五上午10:00
+地点：腾讯会议 277-439-057
+主持人：苗晓晔（浙江大学数据科学研究中心百人计划研究员）
+报告人：王健楠（Simon Fraser University）
+
+题目：DataPrep：低代码数据准备
+报告摘要：Data scientists have been complaining about data preparation (data collection → data understanding → data cleaning → data enrichment → data integration → feature engineering) for many years. Although some efforts have been devoted to solving this problem, a recent survey released by Anaconda in 2020 shows that it is still the case that "Data preparation and cleansing takes valuable time away from real data science work and has a negative impact on overall job satisfaction." Most recently, Andrew Ng urged the AI community to shift from Model-Centric toward Data-Centric AI development.
+ 
+In this talk, I will start by answering two fundamental questions: i) what makes data preparation hard? ii) why has this problem not been solved? Then, I will present DataPrep, a low-code data preparation system to address these challenges. DataPrep currently contains three components: a data connector component to simplify and accelerate data collection, an exploratory data analysis (EDA) component to enable fast data understanding, and a data cleaning component to clean and standardize data. I will describe their novel design and demonstrate how they can significantly save data scientists' time. In the end, I will share some lessons and experience that I learned about open-source software development.
+
+Project Website: http://dataprep.ai
+
+个人简介：王健楠是华为云EI数据领域首席科学家，加拿大Simon Fraser大学计算机学院副教授。在此之前，他是加州大学伯克利分校 AMPLab 的博士后。他在清华大学获得博士学位。王教授在数据库，大数据，数据科学方面拥有十多年的研究经验，他的研究贡献为他赢得了 VLDB 最佳实验、分析和基准论文奖（2021 年）、CS-Can | Info-Can 杰出青年奖（2020 年）、IEEE TCDE 新星奖（2018 年）、ACM SIGMOD 最佳Demo奖（2016），中国计算机学会优秀博士论文奖（2013），谷歌博士Fellowship（2011 年）。他是 VLDB 2023 的大会主席、ICDE 2022 的博士研讨会主席、VLDB 2021 的副主编以及 SIGMOD 2019 的核心 PC 成员。
+
+个人主页：https://www.cs.sfu.ca/~jnwang/
+
+此次报告计入计算机学院研究生读书报告1次，读书报告名单统计方式：腾讯会议线上签到，讲座开始及结束的时候随机发起签到，签到2次方有效，请参加的学生及时签到
+读书报告名单统计上报负责人：牛茜，联系方式：0571-88208302或者直接钉钉搜索姓名
